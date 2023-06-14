@@ -26,16 +26,56 @@ _Για σύντομες & επιφανειακές συμβουλές για π
 Ας υποθέσουμε ότι θες ένα "quick and dirty" intro, τι αξίζει να αγοράσεις και τι είναι καλό value-for-money mechanical keyboard σε γενικές γραμμές. Για τα δεδομένα της ελληνικής/ευρωπαϊκής mainstream αγοράς, και μένωντας σε κοινές μάρκες, ισχύουν περίπου τα εξής:
 
 - Do
+  - **Keychron**: Αυτή την στιγμή από τα καλύτερα value for money και entry level keyboards. Ασύρματες επιλογές, Mac-friendly, hot-swappable switches, ωραία design και μερικά μοντέλα προσφέρουν και volume knob.
+  - **Ducky**: Αρκετά ΟΚ ποιότητα κατασκευής, PBT double-shot keycaps, πληθώρα Cherry MX switches, standard layouts και δυνατό RGB. Εντυπωσιακά μοντέλα όπως το Ducky One 2 Mini.
   - **Leopold**: Minimal design, χωρίς backlight, εξαιρετική ποιότητα κατασκευής/keycaps και επιλογές layouts, Cherry MX switches στα ~120ευ.
-  - **Varmilo**: Standard layouts, *πολλές* επιλογές σε switches & στα υπέροχα keycaps τους. Διατίθεται και σαν kits σε μερικά καταστήματα.
-  - **Coolermaster**: Standard layouts, Cherry MX switches, [TKL layouts](#megethosLayout) καθώς και **δυνατό RGB**, συχνά σε τιμές κάτω των 100€.
-  - **Vortex/iKBC**: Με την πολύ καλή σειρά **Poker** ([60%](#megethosLayout)), αλλά και τα στιβαρά RGB TKL/Full-sized μοντέλα τους (F87/MF87/F108/MF108).
 
 - Do _not_
   - **Razer**: Ακόμα μεγαλύτερες τιμές χωρίς ουσιαστικό tradeoff (εκτός κι αν θέλει κανείς *πολύ* το Synapse) ενώ το μόνο keyboard τους με standard layout είναι το *Black Widow X Tournament Edition*, κάτι που κάνει πολύ δύσκολη την αλλαγή keycaps. Τα switches τους απο 2016+ φτιάχνονται απο Greetech και είναι πιο αξιοπρεπή απο τα Kailh προηγούμενων γενιών.
   - **Corsair**: Σε μία παρόμοια κατάσταση με Razer, προσφέρουν καλά Cherry MX switches, σε τιμές όμως δυσανάλογες εκτός αν θέλει κάποιος πολλά physical macro buttons και μεγάλο layout/form-factor. Εάν βρεθούν μεταχειρισμένα <70€ αποτελούν σχετικά *αξιοπρεπή* επιλογή.
   - **Logitech**: Τα Romer-G switches των μηχανικών τους αφήνουν σχετικά πικρή γεύση στους περισσότερους, ενώ ακόμα και τα Cherry MX lines τους είναι σχετικά overpriced για αυτό που προσφέρουν.
 
+- Honorable Mentions
+
+    Προσιτά πληκτρολόγια που έχουν γίνει δημοφιλή μέσω group buys. Να σημειωθεί οτι αυτά είναι entry level custom keyboards και δεν είναι 'έτοιμα' και χρειάζονται switches, keycaps και λίγο παραπάνω χρόνο για να τα αποκτήσετε.
+  - **NK65 Entry Edition**: Ένα 65% layout πληκτρολόγιο απο την NovelKeys, πλαστική θήκη, hot swappable PCB, και stabilizers. Ένα απο τα καλύτερα σημεία για να μπεί κάποιος στο hobby.
+  - **KBD67 Lite**: Προσιτό πληκτρολόγιο 65% της KBDfans διαθέτει πλαστική θήκη, hot-swappable PCB και υλικό από σιλικόνη για απορρόφηση του ήχου.
+  - **Zoom65**: Επίσης ένα από τα καλύτερα keyboards για να μπεί κάποιος στο hobby. Διαθέτει hotswap PCB, αν και όχι τοσο προσιτό είναι απο τα καλύτερα value for money στο budget του.
+  - **QK60/65/75/80/100**: Ότι ειπώθηκε και για το Zoom65 ισχυεί και για τα boards της qwertykeys. Έχουν βγάλει αρκετά boards σε πολλά layouts δίνοντας επιλογή στον αγοραστή να δοκιμάσει διαφορετικά layouts.
+
+### Εν μη συντομία
+
+#### Τι είναι τα mechanical keyboards;
+ - Τα μηχανικά πληκτρολόγια χρησιμοποιούν μηχανικούς διακόπτες για την ανίχνευση του πάτημα των πλήκτρων, ενώ τα πληκτρολόγια με μεμβράνη χρησιμοποιούν ένα λεπτό φύλλο μεμβράνης που κάνει επαφή με ένα πυκνωμένο υλικό για την ανίχνευση της πίεσης.
+ - Οι μηχανικοί διακόπτες προσφέρουν διαφορετική ανταπόκριση κατα την πληκτρολόγιση, και παρέχουν ευκολία στην προσαρμογή και στην ατομική προτίμηση.
+
+#### Διαφορετικές διατάξεις και μορφές
+Υπάρχουν πολλές διαφορετικές διατάξεις στα custom mechanical keyboards. Κάθε πληκτρολόγιο έχει μια συγκεκριμένη διάτακη πλήκτρων (με εξαίρεση τα πληκτρολόγια που έχουν επιλογή για solder PCB που κάνουν support πολλά layouts) οπως ANSI, ISO και HHKB
+
+Επίσης υπάρχουν και διαφορετικές μορφές όπως:
+ - Full size
+ - TKL (tenkeyless) χωρίς τον αριθμητικό πίνακα
+ - 75% Compact layout το οποιό δεν έχει αριθμητικό πίνακα και μερικά παραπάνω πλήκτρα από τα TKL
+ - 65% Ουσιατικά ένα 75% χωρίς την σειρά με τα F, και μερικά παραπάνω πλήκτρα
+ - 60% Παρέχουν μόνο το alphanumeric zone. Δεν υπάρχει ούτε ο αριθμητικός πίνακας, τα arrow keys, etc
+ - 40% Εδώ δεν έχουμε ούτε την σειρά με τους αριθμούς αλλά συνήθως χωρίζουμε το spacebar στα 2 για να έχουμε περισσότερα layers
+
+### Plates και θήκες
+
+#### Θήκες
+Οι θήκες είναι απο τους μεγαλύτερους παράγοντες για τον ήχο, το βαρος, την αίσθηση και την εμφάνιση του πληκτρολογίου.
+
+Τα κύρια υλικά για θήκες συνήθως είναι:
+ - Plastic cases: Ελαφριά θήκη, ευέλικτη αίσθηση στο πάτημα των πλήκτρων. Ο ήχος του πληκτρολογίου σε μια πλαστική θήκη είναι μαλακός και muted.
+ - Metal cases: Φτιαγμένες απο αλουμίνιο ή/και Stainless Steel, η πιο δημοφιλής επιλογή για πληκτρολόγια. Παράγουν ένα κλασσικό, solid και καθαρό ηχο.
+
+#### Plates
+  Υπάρχουν διάφορα υλικά για plates, τα οποία "κουμπώνουν" ανάμεσα στο PCB και στα switches. Είναι ένας από τους παράγοντες για το feeling και τον ήχο του πληκτρολογίου.
+
+  Τα πιο συνηθές υλικά είναι:
+  - Aluminum plate: Αρκετά σκληρό και σταθερό κατά την πίεση των πλήκτρων. Έχει έναν ξεχωριστό ήχο με αρκετή αντήχηση. Ο ήχος είναι καθαρός, δυνατός και ενισχύει αρκετά τα switches.
+  - Polycarbonate plate: Πλαστικό plate, αρκετά flexible και απαλό. Ο ήχος είναι πιο μαλακός και muted
+  - Polyester (FR4): Φτιαγμένο από το ίδιο υλικό με τις PCB. Είναι περίπου κάπου ενδιάμεσα μεταξύ του aluminum και του PC. Ο ήχος είναι μαλακός ενώ έχει μια μεσαία εως σκληρή αισθηση.
 ### Online & μη καταστήματα στην Ελλάδα
 
 Because paying for shipping sucks.
@@ -59,22 +99,16 @@ Because paying for shipping sucks.
 
 | Κατάστημα            | Σύνδεσμος                      | Σχόλια |
 | :------------------: | :----------------------------- | :----- |
-| Amazon               | <https://www.amazon.co.uk/> *(+ .de, .fr, .it, .nl, .es)* | Παρά την "ανειδίκευτη" φύση του, βρίσκουμε εδώ καλά brands όπως Vortex, iKBC, Filco, Matias, CoolerMaster, Qisan, Tesoro, Das, Anne Pro, κτλ. Επίσης προτείνονται τα εξής sites για σύγκριση τιμών: (https://uk.camelcamelcamel.com/, https://de.camelcamelcamel.com/, https://it.camelcamelcamel.com/, https://es.camelcamelcamel.com/, https://fr.camelcamelcamel.com/) |
+| Amazon               | <https://www.amazon.de/> *(+ .fr, .it, .nl, .es)* | Παρά την "ανειδίκευτη" φύση του, βρίσκουμε εδώ καλά brands όπως Vortex, iKBC, Filco, Matias, CoolerMaster, Qisan, Tesoro, Das, Anne Pro, κτλ. Επίσης προτείνονται τα εξής sites για σύγκριση τιμών: (https://de.camelcamelcamel.com/, https://it.camelcamelcamel.com/, https://es.camelcamelcamel.com/, https://fr.camelcamelcamel.com/) |
 | Candykeys            | <https://www.candykeys.com/>   | Παρέχει πληκτρολόγια Vortex, Leopold, KBP, Anne Pro, keycap sets (ISO + ANSI) και άλλα κομμάτια.  Based in Germany, ships to EU. |
-| Caps-Unlocked        | <https://caps-unlocked.com/>   | Πληκτρολόγια, keycaps, κομμάτια αλλά και Group Buys |
-| CCLonline            | <https://www.cclonline.com/>   | Ducky, Coolermaster και άλλα, Cougar, Gamdias, iKBC, Cherry, Vortex.<br/>*Δωρεέαν μεταφορικά σε αγορές άνω των 50 £* |
-| Cool Cable           | <https://www.coolcable.co.uk/> | Custom cables από UK
+| EloquentClicks       | <https://www.eloquentclicks.com/>| Μεγάλη γκάμα (και συνήθως in stock) σε Keyboards όπως Keychron, Vortex και αρκετά ενδιαφέρον Group Buys. Switches, keycaps και επίλογη για express μεταφορικά (~20€ παράδοση σε 1-2 μέρες). Based in Spain |
 | falba.tech           | <https://falba.tech/>          | Custom wooden bamboo cases, and some acrylic and carbon ones. Switch packs (65 browns at 48EUR). Other parts for the GH60, Atreus, ErgoDox. Also Microcontrollers, diodes, leds etc. |
 | GetDigital           | <https://www.getdigital.de/>   | Γρήγορο shipping, αξιοπρεπείς τιμές. Παρέχει Das, Ducky, Filco, Matias keyboards καθώς και ορισμένα keycaps |
-| Hobby King           | <https://hobbyking.com/>       | Έτοιμα κομμάτια ανθρακονηματος, αποθήκη στην Ευρώπη. Πολύ πιο οικονομικός από ελληνικά καταστήματα.<br>300 x400 x1.5mm φύλλο €27.67 + μεταφορικά
-| mechboards           | <https://mechboards.co.uk/>    | Switches, Keycaps, Cases, Plates, DIY Kits, parts and GBs |
-| mechbox              | <https://www.mechbox.co.uk/>   | Keycaps, κομμάτια, εργαλεία, **πολλά switches** συμπεριλαμβανομένων κάποιων λιγότερο κοινών (MOD, Zealios, Aristotles etc.) καθώς βάσεις για tester kits. |
-| MechSupply           | <http://www.mechsupply.co.uk/> | Keycaps και kits για ISO-UK layouts. Plates, switches και Group buys επίσης. |
+| Hobby King           | <https://hobbyking.com/>       | Έτοιμα κομμάτια ανθρακονηματος, αποθήκη στην Ευρώπη. Πολύ πιο οικονομικός από ελληνικά καταστήματα.<br>300 x400 x1.5mm φύλλο €27.67 + μεταφορικά |
+| Oblotzky Industries  | <https://oblotzky.industries/> | Ένας απο τους καλύτερους vendors στην Ευρώπη, με αρκετά GMK keycaps in stock, και πολύ αξιόπιστα Group Buys.
+| Keygem               | <https://keygem.com/>          | Ένα από τα πιο γνωστά και αξιόπιστα μαγαζία στην Ευρώπη. Keyboards, Switches, και αξεσουάρ, μεταφορικά περίπου στα 12-15€ Based in Germany |
 | Mind Factory         | <https://www.mindfactory.de/>  | Cherry MX πληκτρολόγια, <br/>*32€ shipping* |
 | MyKeyboard           | <https://mykeyboard.eu/>       | Πολύ καλή ποικιλία σε keyboards, keycaps καθώς και αξεσουάρ και άλλα parts.<br/>~~22€ shipping για Ελλάδα~~ Σε μικρά πακέτα γίνεται shipping απο 3€ |
-| Overclockers         | <https://www.overclockers.co.uk/peripherals/keyboards> | KBC, Vortex, Filco, Ducky, Das, Cougar, CoolerMaster |
-| SkinFlint            | <https://skinflint.co.uk/>     | Site σύγκρισης τιμών το οποίο έχει μερικές καλές επιλογές φίλτρων ανά είδος switch κ.α.. Κάνει αναζήτηση σε UK, Γερμανία, Πολωνία & Αυστρία |
-| The Keyboard company | <http://www.keyboardco.com/>   | Ενδιαφέροντα πληκτρολόγια της Filco, Matias & IBM/Unicomp. Εργονομικές επιλογές επίσης. |
 
 ### Eshops απο Ασία & χώρες εκτός Ευρώπης
 
@@ -82,13 +116,13 @@ Because paying for shipping sucks.
 
 | Κατάστημα       | Σύνδεσμος                     | Σχόλια |
 | :-------------: | :-------------                | :----- |
-| Aliexpress      | <https://www.aliexpress.com/> | Απο τα μεγαλύτερα eshops παγκοσμίως, με πολύ εύκολο refunding και σχεδόν κανένα πρόβλημα με γλώσσα. |
+| Aliexpress      | <https://www.aliexpress.com/> | Απο τα μεγαλύτερα eshops παγκοσμίως, με πολύ εύκολο refunding και σχεδόν κανένα πρόβλημα με γλώσσα. *Τα προϊόντα που αναφέρουν Price includes VAT δεν περνάνε απο τελωνείο και ο φόρος πληρώνεται στην τιμή*|
 | Arrow           | <https://www.arrow.com/>      | Από microcontrollers, σε USB ports για custom καλώδια, μέχρι mx black vintage switches. Προσφέρει *ΔΩΡΕΑΝ FedEx priority shipping*. Αγορές άνω των €22 περνάνε τελωνείο αλλά η  αγορά μπορεί να σπαστεί σε μικρότερες |
 | Banggood        | <https://www.banggood.com/>   | Λιγότερο ποιοτικές επιλογές, αλλά σίγουρα valid. Συχνά έχει coupons για το δημοφιλές Anne Pro |
 | GearBest        | <https://www.gearbest.com/>   |  |
 | KBDFans Store   | <http://kbdfans.cn/>          | Εξαιρετικός vendor με καλές τιμές και ποικιλία σε keyboards, keycaps, switches, parts και ακόμη και Group Buys για high-end επιλογές.
 
-## Switches
+### Switches
 
 <table width="100%">
   <tr>
